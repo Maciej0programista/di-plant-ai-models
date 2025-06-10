@@ -1,0 +1,21 @@
+{
+  "release_version": "1.0",
+  "models": [
+    {
+      "id": "inception_v3",
+      "name": "InceptionV3 (Wysoka Jakość)",
+      "description": "Potężny model do klasyfikacji obrazów. Zapewnia wysoką dokładność, ale jest większy i wolniejszy.",
+      "version": "1.0",
+      "url": "https://github.com/Maciej0programista/di-plant-ai-models/releases/download/v1.0/inceptionv3.tflite",
+      "checksum_sha256": "WSTAW_TUTAJ_SUMĘ_KONTROLNĄ_INCEPTIONV3"
+    },
+    {
+      "id": "mobilenet_v3_large",
+      "name": "MobileNetV3 (Szybki)",
+      "description": "Nowoczesny i lekki model zoptymalizowany pod kątem szybkości na urządzeniach mobilnych.",
+      "version": "1.0",
+      "url": "https://github.com/Maciej0programista/di-plant-ai-models/releases/download/v1.0/mobilenetv3large.tflite",
+      "checksum_sha256": "WSTAW_TUTAJ_SUMĘ_KONTROLNĄ_MOBILENETV3"
+    }
+  ]
+}
